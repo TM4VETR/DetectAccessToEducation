@@ -1,4 +1,4 @@
-# DetectAccessToEducation 
+# Detect Access To Education 
 A novel approach towards the automated detection of access to education and training in German training offers and advertisements.
 
 # Background
