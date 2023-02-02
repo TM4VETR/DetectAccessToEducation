@@ -1,0 +1,21 @@
+Eine mit Erfolg abgeschlossene Ausbildung in einem anerkannten dreijährigen kaufmännischen Ausbildungsberuf im Handel oder eine mindestens einjährige Berufspraxis oder eine mit Erfolg abgelegte Abschlussprüfung zum Verkäufer/zur Verkäuferin oder in einem anderen anerkannten Ausbildungsberuf und danach eine mindestens fünfjährige Berufspraxis, wenn die zuvor genannten Voraussetzungen fehlen.
+=== 1
+Keine PC-Kenntnisse erforderlich.
+=== 2
+Grundkenntnisse in Windows wünschenswert. Erforderlich ist theoretisches Wissen im Bereich Lohn- und Gehaltsabrechnung, wie es im Kurs Lohn + Gehalt Grundkurs (ohne Einsatz spezieller Software) erworben werden kann.
+=== 3
+Kenntnisse in buchhalter pro entsprechend des Grundkurses, erworben durch Kursbesuch oder praktische Arbeit mit dem Programm.
+=== 4
+Das Seminar erfordert keine Vorkenntnisse.
+=== 5 
+ Zur Zulassung zur Prüfung nach Ausbilder-Eignungs-Verordnung sind keine besonderen Voraussetzungen erforderlich. Um als Ausbilder/in im Betrieb tätig zu werden muss jedoch die fachliche und persönliche Eignung nach BBiG § 30 nachgewiesen werden.
+=== 6
+Eine abgeschlossene elektrotechnische Ausbildung orientierend an den Vorgaben der TRBS 1203.
+=== 7
+Grundkenntnisse der Automatisierungstechnik (Online-Eingangstest unter https:/­/­www.­sitrain-learning.­siemens.­com.­.­: Andrea Rheindorf
+=== 8
+Das Seminar richtet sich an Mitarbeiter, die im Bereich der Elekrotechnik eingesetzt werden, z.B. Elektrofachkräfte, Elektrofachkräfte für festgelegte Tätigkeiten, erfahrene Elektrotechnisch unterwiesene Personen.
+=== 9
+Abgeschlossene technische Beraufsausbildung
+=== 10
+Administrative Kenntnisse des jeweiligen Betriebssystems (Linux).

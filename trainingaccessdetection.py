@@ -25,12 +25,11 @@ def accessdetection(text):
         retrieved.append(rule_id)
     matches = matcher(doc)
     for match_id, start, end in matches:
-        rule_id = voc[match_id]  # get the unicode ID, i.e. 'COLOR'
+        rule_id = voc[match_id]  
         retrieved.append(rule_id)
     matches = matcher2(doc)
     for match_id, start, end in matches:
         rule_id = voc[match_id]
-        #if not "Vorbereitung auf" in wb[rule_id]:
         retrieved.append(rule_id)
     retrieved = list(set(retrieved))
     if "X" in retrieved:
