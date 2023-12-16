@@ -26,3 +26,22 @@ jupyter-notebook
 
 If you have questions, please use the GitHub discussions feature at
 https://github.com/TM4VETR/DetectionAcessToEducation/issues/new.
+
+
+# Citation
+
+If you use this work, please cite:
+
+
+```bibtex
+@article{dorpinghaus2023challenges,
+  title={Challenges of Automated Identification of Access to Education and Training in Germany},
+  author={D{\"o}rpinghaus, Jens and Samray, David and Helmrich, Robert},
+  journal={Information},
+  volume={14},
+  number={10},
+  pages={524},
+  year={2023},
+  publisher={MDPI}
+}
+```
